@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://patternize.github.io/blog</id>
+    <title>Patternize.io Blog</title>
+    <updated>2019-05-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://patternize.github.io/blog"/>
+    <subtitle>Patternize.io Blog</subtitle>
+    <icon>https://patternize.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Post]]></title>
+        <id>First Post</id>
+        <link href="https://patternize.github.io/blog/2019/05/29/hello-world"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with]]></summary>
+    </entry>
+</feed>
