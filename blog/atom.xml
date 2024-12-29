@@ -9,9 +9,14 @@
     <icon>https://patternize.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Post]]></title>
-        <id>First Post</id>
+        <id>https://patternize.github.io/blog/2019/05/29/hello-world</id>
         <link href="https://patternize.github.io/blog/2019/05/29/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with</p><p>This is a test post.</p><p>A whole bunch of other information.</p>]]></content>
+        <author>
+            <name>gazcn007</name>
+            <uri>https://github.com/gazcn007</uri>
+        </author>
     </entry>
 </feed>

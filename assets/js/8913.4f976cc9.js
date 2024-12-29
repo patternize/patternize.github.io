@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatternize_io=self.webpackChunkpatternize_io||[]).push([[8913],{8913:(e,t,i)=>{i.r(t)}}]);
